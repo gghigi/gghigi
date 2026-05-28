@@ -14,7 +14,7 @@ I'm a **junior web developer** based in Sydney, Australia :australia: with work 
 * :man_shrugging: I'm looking for help with backend development.
 * :speech_balloon: Ask me about travel, surf or history and I'll never stop.
 * :mailbox_with_mail: How to reach me : email me first, call after so I know it's not a scam.
-* :statue_of_liberty: Pronouns: he, him, his, himself.
+* :statue_of_liberty: Knowledge should be free for all.
 * :zap: Fun fact: I'm European.
 
 
