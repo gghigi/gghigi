@@ -41,11 +41,7 @@ I'm a **junior web developer** based in Sydney, Australia :australia: with work 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gghigi)
 
 
-## Acknowledgement of Country
 
-I acknowledge and pay respect to the past, present and future Traditional Custodians and Elders of Australia and its territories; and the continuation of cultural, spiritual and educational practices of Aboriginal, Torres Strait Islanders and other Australian territories.
-
-If you'd like to know more visit [Reconciliation Australia](https://www.reconciliation.org.au/).
 
 
 ## How Many Views???
