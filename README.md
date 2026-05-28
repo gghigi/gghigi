@@ -9,8 +9,8 @@ I'm a **junior web developer** based in Sydney, Australia :australia: with work 
 
 
 * :toolbox: I'm currently working on some personal website projects.
-* :pencil2: I'm currently learning React and SQL.
-* :handshake: I'm looking to collaborate on open source projects and hackhatons.
+* :pencil2: I'm currently learning AI, agents, sub-agents and MCP.
+* :handshake: I'm looking to collaborate on open source projects and hackathons.
 * :man_shrugging: I'm looking for help with backend development.
 * :speech_balloon: Ask me about travel, surf or history and I'll never stop.
 * :mailbox_with_mail: How to reach me : email me first, call after so I know it's not a scam.
